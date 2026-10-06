@@ -40,5 +40,5 @@
 
 ## Статистика использования GitHub
 
-[![stats](https://streak-stats.demolab.com?user=slavkaa999&theme=radical)]
+![stats](https://streak-stats.demolab.com?user=slavkaa999&theme=radical)
 
