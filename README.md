@@ -39,4 +39,5 @@
 ## Статистика использования GitHub
 
 [![stats](https://streak-stats.demolab.com?user=slavkaa999&theme=radical)]
+[![stats2](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=slavkaa999&layout=compact&theme=radical)]
 
