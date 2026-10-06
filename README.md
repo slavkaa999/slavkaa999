@@ -23,12 +23,7 @@
 | (2025) Сайт | Разработка и оформление собственного сайта | WordPress, HTML, CSS |
 
 ## Пример кода
-
-def is_even(number)
-    """Проверяет, является ли число чётным."""
-    return number % 2 == 0
-
-print(is_even(10))  # True
+''' git status '''
 ## Цитата
 
 > Работа — это не волк. Работа — ворк. А волк — это ходить.
@@ -40,3 +35,8 @@ print(is_even(10))  # True
 [![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/sviat.knysh)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:svyat.knysh@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/slavkaa999)
+
+## Статистика использования GitHub
+
+[![stats](https://streak-stats.demolab.com?user=slavkaa999&theme=radical)]
+
