@@ -1,18 +1,36 @@
-## Привет
-оашщуаоуцашщоауцшщоащцуоащшцоущшооашщуцщоацущаоцоаощцшаощоцущ
+# Привет, я Svyat 👋
 
-[  ][  ]
-<!--
-**slavkaa999/slavkaa999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Студент ИТМО. Учусь писать код, вести документацию и работать с Git.
 
-Here are some ideas to get you started:
+## Чем занимаюсь
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Изучаю Python, C++ и C.
+- Оформляю документацию в Markdown и LaTeX
+- Работаю с Git.
+- Создаю собственный сайт.
+
+## Учебные проекты
+
+| Проект | Описание | Технологии |
+|--------|----------|------------|
+| [itmo_tools_2026](https://github.com/E5capada/itmo_tools_2026) | Лабораторные по инструментам разработки | Python, Git |
+| Лабораторная №2 | Документирование функций, Markdown и LaTeX | Markdown, LaTeX |
+
+## Пример кода
+
+def is_even(number)
+    """Проверяет, является ли число чётным."""
+    return number % 2 == 0
+
+print(is_even(10))  # True
+## Цитата
+
+> Работа — это не волк. Работа — ворк. А волк — это ходить.
+> — *Джейсон Стетхэм*
+
+## Мои контакты
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mustbring)
+[![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/sviat.knysh)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:svyat.knysh@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/slavkaa999)
